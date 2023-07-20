@@ -113,3 +113,13 @@
 .pg2-content{
     text-align: right;
 }
+/* page 3 style */
+.pg3{
+    text-align: center;
+}
+.pg3-container{
+    max-width: 1400px;
+    display: flex;
+    justify-content: space-between;
+    margin: 0 auto;
+}
