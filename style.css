@@ -161,6 +161,32 @@ margin: 15px 0 25px;
     height: 500px;
     text-align: left;
 }
+/* page 4 style */
+.pg4-container{
+    width: 1400px;
+    margin: auto;
+    margin-top: 100px;
+    display: flex;
+    justify-content: center;
+    gap: 200px;
+    align-items: center;
+}
+.pg4-img img{
+    width: 634.833px;
+    height: 650px;
+}
+.pg4-content h1{
+    text-align: right;
+font-size: 48px;
+font-weight: 700;
+}
+.pg4-content p{
+    color: #534C64;
+text-align: right;
+font-size: 18px;
+font-weight: 400;
+}
+/* footer style */
 footer{
     height: 636px;
     width: 100%;
