@@ -217,7 +217,9 @@ background-color: white;
 
 }
 .games-btn:hover{
-    box-shadow: 2px 2px 5px grey;
+    box-shadow: 2px 2px 5px rgb(217, 108, 173);
+    border: 2px solid #F948B2;
+    color: #F948B2;
 }
 /* footer style */
 footer{
@@ -257,6 +259,7 @@ footer{
     width: 30%;
     margin: 50px auto 50px;
     font-size: 30px;
+    cursor: pointer;
 }
 .policy-box{
     text-decoration: none;
