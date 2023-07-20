@@ -1,0 +1,9 @@
+@media screen and (max-width: 576px) {
+
+    .pg3-container{
+        width: 100%;
+        display: block;
+        text-align: center;
+        margin: auto;
+    }
+}
