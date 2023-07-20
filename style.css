@@ -51,3 +51,65 @@
 .primary-color{
     color: rgb(240, 79, 199);
 }
+/* page 1 style */
+.pg1-grand-parents{
+    background-image: url('./images/Group14.png'), linear-gradient('223deg, rgba(140, 87, 238, 0.03) 0%, rgba(241, 68, 174, 0.03) 100%');
+    background-position: left;
+    background-size: cover;
+    background-blend-mode: overlay;
+    border: 1px solid red;
+
+}
+.pg1-content-container{
+    max-width: 1400px;
+    margin: 0 auto;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.pg1-content{
+  width: 50%;
+}
+
+.pg1-img{
+  width: 50%;
+}
+.pg1-img img{
+    width: 100%;
+}
+.pg1-content h3{
+    font-size: 48px;
+}
+.pg1-content h1{
+    font-size: 95px;
+    color: linear-gradient(180deg, #F948B2 0%, #8758F1 100%);
+}
+.pg1-content p{
+    font-size: 20px;
+    font-weight: 500;
+    margin-bottom: 20px;
+}
+.pg1-btn{
+    border: none;
+    padding: 21px 40px;
+    border-radius: 48px;
+    background-color: #FF42A5;
+    color: #FFF;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 600;
+}
+/* page 2 design */
+.pg2{
+    width: 100%;
+}
+.pg2-container{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    max-width: 1400px;
+    margin: 0 auto;
+}
+.pg2-content{
+    text-align: right;
+}
